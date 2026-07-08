@@ -1,0 +1,102 @@
+[0.018s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_sdk2': /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_sdk2 -- -j24 -l24
+[0.194s] [35m[1mConsolidate compiler generated dependencies of target advanced_gamepad[0m
+[0.194s] [35m[1mConsolidate compiler generated dependencies of target go2_low_level[0m
+[0.194s] [35m[1mConsolidate compiler generated dependencies of target state_machine_example[0m
+[0.194s] [35m[1mConsolidate compiler generated dependencies of target h1_2_ankle_track[0m
+[0.194s] [35m[1mConsolidate compiler generated dependencies of target h1_27dof_example[0m
+[0.194s] [  1%] [32mBuilding CXX object example/wireless_controller/CMakeFiles/advanced_gamepad.dir/main.cpp.o[0m
+[0.194s] [  2%] [32mBuilding CXX object example/go2/CMakeFiles/go2_low_level.dir/go2_low_level.cpp.o[0m
+[0.194s] [  3%] [32mBuilding CXX object example/state_machine/CMakeFiles/state_machine_example.dir/main.cpp.o[0m
+[0.194s] [  6%] Built target test_publisher
+[0.194s] [  7%] [32mBuilding CXX object example/h1/CMakeFiles/h1_2_ankle_track.dir/low_level/h1_2_ankle_track.cpp.o[0m
+[0.194s] [ 11%] Built target test_subscriber
+[0.194s] [ 13%] Built target test_jsonize
+[0.195s] [ 14%] [32mBuilding CXX object example/h1/CMakeFiles/h1_27dof_example.dir/low_level/h1_27dof_example.cpp.o[0m
+[0.195s] [ 17%] Built target go2_sport_client
+[0.195s] [ 19%] Built target go2_stand_example
+[0.195s] [ 21%] Built target go2_robot_state_client
+[0.195s] [ 23%] Built target b2_sport_client
+[0.195s] [ 26%] Built target go2_vui_client
+[0.195s] [ 28%] Built target h1_loco_client
+[0.195s] [ 30%] Built target go2_video_client
+[0.195s] [ 32%] Built target b2_stand_example
+[0.195s] [ 35%] Built target h1_low_level_example
+[0.195s] [ 37%] Built target h1_2_arm_sdk_dds_example
+[0.195s] [35m[1mConsolidate compiler generated dependencies of target g1_userctrl_dds_example[0m
+[0.195s] [35m[1mConsolidate compiler generated dependencies of target g1_termination[0m
+[0.195s] [ 39%] Built target g1_ankle_swing_example
+[0.195s] [ 42%] Built target g1_loco_client
+[0.195s] [ 44%] Built target h1_arm_sdk_dds_example
+[0.195s] [ 46%] Built target g1_arm5_sdk_dds_example
+[0.195s] [ 48%] Built target g1_arm7_sdk_dds_example
+[0.195s] [ 51%] Built target g1_dex3_example
+[0.195s] [35m[1mConsolidate compiler generated dependencies of target g1_arm_action_example[0m
+[0.195s] [35m[1mConsolidate compiler generated dependencies of target g1_agv_client_example[0m
+[0.195s] [35m[1mConsolidate compiler generated dependencies of target g1_hand_sdk_example[0m
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target g1d_arm_example[0m
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target g1_dual_arm_example[0m
+[0.196s] [ 53%] Built target g1_userctrl_dds_example
+[0.196s] [ 55%] Built target g1_audio_client_example
+[0.196s] [ 57%] Built target g1_arm_action_example
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target b2w_stand_example[0m
+[0.196s] [ 60%] Built target g1_termination
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target b2w_sport_client[0m
+[0.196s] [ 62%] Built target g1_hand_sdk_example
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target a2_sport_state[0m
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target go2w_stand_example[0m
+[0.196s] [ 64%] Built target g1_agv_client_example
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target a2_sport_client[0m
+[0.196s] [ 67%] Built target g1_dual_arm_example
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target go2w_sport_client[0m
+[0.196s] [ 69%] Built target b2w_sport_client
+[0.196s] [ 71%] Built target g1d_arm_example
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target a2_audio_client_example[0m
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target r1_loco_client[0m
+[0.196s] [ 73%] Built target b2w_stand_example
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target r1_ankle_swing_example[0m
+[0.196s] [ 76%] Built target a2_sport_state
+[0.196s] [ 78%] Built target a2_sport_client
+[0.196s] [ 80%] Built target go2w_sport_client
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target h2_loco_client[0m
+[0.196s] [ 82%] Built target a2_audio_client_example
+[0.196s] [ 85%] Built target r1_ankle_swing_example
+[0.196s] [ 87%] Built target r1_loco_client
+[0.196s] [ 89%] Built target go2w_stand_example
+[0.196s] [35m[1mConsolidate compiler generated dependencies of target h2_ankle_swing_example[0m
+[0.196s] [ 92%] Built target h2_loco_client
+[0.196s] [ 94%] Built target h2_ankle_swing_example
+[0.682s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/wireless_controller/main.cpp:[m[K In member function ‘[01m[Kvoid GamepadExample::Start()[m[K’:
+[0.682s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/wireless_controller/main.cpp:74:30:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+[0.683s]    74 |         control_thread_ptr = [01;31m[KCreateRecurrentThreadEx[m[K("nn_ctrl", UT_CPU_ID_NONE, 40000, &GamepadExample::Step, this);
+[0.683s]       |                              [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.770s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/go2/go2_low_level.cpp:[m[K In member function ‘[01m[Kvoid Custom::Init()[m[K’:
+[0.770s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/go2/go2_low_level.cpp:106:28:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+[0.771s]   106 |     lowCmdWriteThreadPtr = [01;31m[KCreateRecurrentThreadEx[m[K("writebasiccmd", UT_CPU_ID_NONE, 2000, &Custom::LowCmdWrite, this);
+[0.771s]       |                            [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.875s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/h1/low_level/h1_2_ankle_track.cpp:[m[K In constructor ‘[01m[KH1Example::H1Example(std::string)[m[K’:
+[0.875s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/h1/low_level/h1_2_ankle_track.cpp:74:27:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+[0.875s]    74 |     control_thread_ptr_ = [01;31m[KCreateRecurrentThreadEx[m[K(
+[0.875s]       |                           [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.965s] In file included from [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/state_machine/main.cpp:12[m[K:
+[0.965s] /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/state_machine/robot_controller.hpp: In instantiation of ‘[01m[Kvoid RobotController<USER_CTRL>::StartControl() [with USER_CTRL = unitree::common::ExampleUserController][m[K’:
+[0.965s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/state_machine/main.cpp:57:34:[m[K   required from here
+[0.965s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/state_machine/robot_controller.hpp:87:53:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+[0.965s]    87 |         control_thread_ptr = [01;31m[KCreateRecurrentThreadEx("ctrl", UT_CPU_ID_NONE, ctrl_dt_micro_sec, &RobotController::ControlStep, this)[m[K;
+[0.965s]       |                              [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.132s] gmake[2]: *** [example/wireless_controller/CMakeFiles/advanced_gamepad.dir/build.make:76: example/wireless_controller/CMakeFiles/advanced_gamepad.dir/main.cpp.o] Error 1
+[1.137s] gmake[1]: *** [CMakeFiles/Makefile2:459: example/wireless_controller/CMakeFiles/advanced_gamepad.dir/all] Error 2
+[1.137s] gmake[1]: *** Waiting for unfinished jobs....
+[1.228s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/h1/low_level/h1_27dof_example.cpp:[m[K In constructor ‘[01m[KH1Example::H1Example(std::string)[m[K’:
+[1.228s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/h1/low_level/h1_27dof_example.cpp:205:9:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+[1.228s]   205 |         [01;31m[KCreateRecurrentThreadEx[m[K("command_writer", UT_CPU_ID_NONE, 2000,
+[1.228s]       |         [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.710s] gmake[2]: *** [example/h1/CMakeFiles/h1_2_ankle_track.dir/build.make:76: example/h1/CMakeFiles/h1_2_ankle_track.dir/low_level/h1_2_ankle_track.cpp.o] Error 1
+[1.710s] gmake[1]: *** [CMakeFiles/Makefile2:823: example/h1/CMakeFiles/h1_2_ankle_track.dir/all] Error 2
+[1.764s] gmake[2]: *** [example/go2/CMakeFiles/go2_low_level.dir/build.make:76: example/go2/CMakeFiles/go2_low_level.dir/go2_low_level.cpp.o] Error 1
+[1.764s] gmake[1]: *** [CMakeFiles/Makefile2:563: example/go2/CMakeFiles/go2_low_level.dir/all] Error 2
+[1.777s] gmake[2]: *** [example/state_machine/CMakeFiles/state_machine_example.dir/build.make:76: example/state_machine/CMakeFiles/state_machine_example.dir/main.cpp.o] Error 1
+[1.777s] gmake[1]: *** [CMakeFiles/Makefile2:511: example/state_machine/CMakeFiles/state_machine_example.dir/all] Error 2
+[1.807s] gmake[2]: *** [example/h1/CMakeFiles/h1_27dof_example.dir/build.make:76: example/h1/CMakeFiles/h1_27dof_example.dir/low_level/h1_27dof_example.cpp.o] Error 1
+[1.807s] gmake[1]: *** [CMakeFiles/Makefile2:797: example/h1/CMakeFiles/h1_27dof_example.dir/all] Error 2
+[1.807s] gmake: *** [Makefile:136: all] Error 2
+[1.815s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_sdk2' returned '2': /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_sdk2 -- -j24 -l24

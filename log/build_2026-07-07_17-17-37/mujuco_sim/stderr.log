@@ -1,0 +1,5 @@
+  File "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim/mpc_path_tracker.py", line 244
+    from __future__ import annotations
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: from __future__ imports must occur at the beginning of the file
+

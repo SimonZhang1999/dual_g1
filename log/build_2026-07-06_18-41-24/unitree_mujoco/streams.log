@@ -1,0 +1,23 @@
+[0.005s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco': CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2 LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_mujoco/simulate -DPython3_EXECUTABLE=/usr/bin/python3 -DMUJOCO_DIR=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_PREFIX_PATH=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_INSTALL_PREFIX=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_mujoco
+[0.012s] [0mRelease mode[0m
+[0.015s] -- Configuring done
+[0.019s] -- Generating done
+[0.019s] -- Build files have been written to: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco
+[0.021s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco' returned '0': CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2 LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_mujoco/simulate -DPython3_EXECUTABLE=/usr/bin/python3 -DMUJOCO_DIR=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_PREFIX_PATH=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_INSTALL_PREFIX=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_mujoco
+[0.022s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco': CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2 LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco -- -j24 -l24
+[0.045s] [35m[1mConsolidate compiler generated dependencies of target jstest[0m
+[0.045s] [35m[1mConsolidate compiler generated dependencies of target unitree_mujoco[0m
+[0.052s] [ 16%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/home/simonzhang/.mujoco/mujoco-3.2.7/simulate/platform_ui_adapter.cc.o[0m
+[0.052s] [ 16%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/home/simonzhang/.mujoco/mujoco-3.2.7/simulate/glfw_dispatch.cc.o[0m
+[0.052s] [ 33%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/home/simonzhang/.mujoco/mujoco-3.2.7/simulate/glfw_adapter.cc.o[0m
+[0.052s] [ 33%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/home/simonzhang/.mujoco/mujoco-3.2.7/simulate/simulate.cc.o[0m
+[0.052s] [ 41%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/joystick/joystick.cc.o[0m
+[0.052s] [ 50%] [32mBuilding CXX object CMakeFiles/jstest.dir/src/joystick/jstest.cc.o[0m
+[0.052s] [ 66%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/lodepng/lodepng.cpp.o[0m
+[0.052s] [ 66%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/main.cc.o[0m
+[0.053s] [ 75%] [32mBuilding CXX object CMakeFiles/jstest.dir/src/joystick/joystick.cc.o[0m
+[0.053s] [ 83%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/shm_nav_bridge.cc.o[0m
+[0.415s] [ 91%] [32m[1mLinking CXX executable jstest[0m
+[0.468s] [ 91%] Built target jstest
+[16.613s] [100%] [32m[1mLinking CXX executable unitree_mujoco[0m
+[16.814s] [100%] Built target unitree_mujoco

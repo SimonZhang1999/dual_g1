@@ -1,0 +1,4 @@
+[35m[1mConsolidate compiler generated dependencies of target unitree_mujoco[0m
+[35m[1mConsolidate compiler generated dependencies of target jstest[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/main.cc.o[0m
+[ 50%] Built target jstest

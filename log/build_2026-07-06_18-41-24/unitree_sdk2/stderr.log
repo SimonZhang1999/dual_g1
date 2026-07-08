@@ -1,0 +1,7 @@
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_PREFIX_PATH
+    MUJOCO_DIR
+
+[0m

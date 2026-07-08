@@ -1,0 +1,40 @@
+running egg_info
+writing ../../build/mujuco_sim/mujuco_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/mujuco_sim/mujuco_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/mujuco_sim/mujuco_sim.egg-info/entry_points.txt
+writing requirements to ../../build/mujuco_sim/mujuco_sim.egg-info/requires.txt
+writing top-level names to ../../build/mujuco_sim/mujuco_sim.egg-info/top_level.txt
+reading manifest file '../../build/mujuco_sim/mujuco_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/mujuco_sim/mujuco_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+copying mujuco_sim/follower_sim.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim
+copying mujuco_sim/follower_path_tracker.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim
+copying mujuco_sim/formation_sync_controller.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim
+copying mujuco_sim/mpc_path_tracker.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim
+running install
+running install_lib
+copying /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim/follower_sim.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim
+copying /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim/follower_path_tracker.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim
+copying /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim/formation_sync_controller.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim
+copying /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim/mpc_path_tracker.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim
+byte-compiling /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim/follower_sim.py to follower_sim.cpython-310.pyc
+byte-compiling /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim/follower_path_tracker.py to follower_path_tracker.cpython-310.pyc
+byte-compiling /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim/formation_sync_controller.py to formation_sync_controller.cpython-310.pyc
+byte-compiling /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim/mpc_path_tracker.py to mpc_path_tracker.cpython-310.pyc
+running install_data
+copying launch/g1_joint_mpc.launch.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/launch
+copying map.rviz -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/rviz
+running install_egg_info
+removing '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim-0.0.1-py3.10.egg-info' (and everything under it)
+Copying ../../build/mujuco_sim/mujuco_sim.egg-info to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim-0.0.1-py3.10.egg-info
+running install_scripts
+Installing fastlio_tf_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing follower_path_tracker script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing follower_sim script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing formation_sync_controller script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing mpc_path_tracker script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing mujoco_camera_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing unitree_mujoco_shm_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing virtual_follower_odom script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+writing list of installed files to '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/install.log'

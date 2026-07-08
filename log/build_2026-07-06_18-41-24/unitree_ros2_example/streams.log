@@ -1,0 +1,36 @@
+[0.006s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example': AMENT_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:/opt/ros/humble LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_ros2/example/src -DPython3_EXECUTABLE=/usr/bin/python3 -DMUJOCO_DIR=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_PREFIX_PATH=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_INSTALL_PREFIX=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example
+[0.013s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.074s] -- Found unitree_go: 0.0.0 (/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/share/unitree_go/cmake)
+[0.085s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.087s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.089s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.093s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.098s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.119s] -- Found unitree_hg: 0.0.0 (/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake)
+[0.124s] -- Found unitree_api: 0.0.0 (/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/share/unitree_api/cmake)
+[0.130s] -- Found rclcpp: 16.0.19 (/opt/ros/humble/share/rclcpp/cmake)
+[0.141s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.141s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.191s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.206s] -- Found rosbag2_cpp: 0.15.16 (/opt/ros/humble/share/rosbag2_cpp/cmake)
+[0.235s] -- Found yaml-cpp version 0.7.0
+[0.236s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.275s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.277s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.278s] -- Configured cppcheck include dirs: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_ros2/example/src/include;/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_ros2/example/src/include/common;/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_ros2/example/src/include/nlohmann
+[0.279s] -- Configured cppcheck exclude dirs and/or files: 
+[0.280s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.280s] -- Configured cpplint exclude dirs and/or files: 
+[0.281s] -- Added test 'lint_cmake' to check CMake code style
+[0.284s] -- Added test 'uncrustify' to check C / C++ code style
+[0.284s] -- Configured uncrustify additional arguments: 
+[0.284s] -- Added test 'xmllint' to check XML markup files
+[0.284s] -- Configuring done
+[0.329s] -- Generating done
+[0.331s] [33mCMake Warning:
+[0.331s]   Manually-specified variables were not used by the project:
+[0.331s] 
+[0.331s]     MUJOCO_DIR
+[0.331s] 
+[0.331s] [0m
+[0.346s] -- Build files have been written to: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example

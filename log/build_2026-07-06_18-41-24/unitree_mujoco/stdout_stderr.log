@@ -1,0 +1,20 @@
+[0mRelease mode[0m
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco
+[35m[1mConsolidate compiler generated dependencies of target jstest[0m
+[35m[1mConsolidate compiler generated dependencies of target unitree_mujoco[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/home/simonzhang/.mujoco/mujoco-3.2.7/simulate/platform_ui_adapter.cc.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/home/simonzhang/.mujoco/mujoco-3.2.7/simulate/glfw_dispatch.cc.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/home/simonzhang/.mujoco/mujoco-3.2.7/simulate/glfw_adapter.cc.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/home/simonzhang/.mujoco/mujoco-3.2.7/simulate/simulate.cc.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/joystick/joystick.cc.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/jstest.dir/src/joystick/jstest.cc.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/lodepng/lodepng.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/main.cc.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/jstest.dir/src/joystick/joystick.cc.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/shm_nav_bridge.cc.o[0m
+[ 91%] [32m[1mLinking CXX executable jstest[0m
+[ 91%] Built target jstest
+[100%] [32m[1mLinking CXX executable unitree_mujoco[0m
+[100%] Built target unitree_mujoco

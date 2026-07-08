@@ -1,0 +1,47 @@
+[0.008s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example': AMENT_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:/opt/ros/humble LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example -- -j24 -l24
+[0.032s] [35m[1mConsolidate compiler generated dependencies of target read_wireless_controller[0m
+[0.033s] [35m[1mConsolidate compiler generated dependencies of target read_low_state[0m
+[0.033s] [35m[1mConsolidate compiler generated dependencies of target read_low_state_hg[0m
+[0.034s] [35m[1mConsolidate compiler generated dependencies of target low_level_ctrl[0m
+[0.034s] [35m[1mConsolidate compiler generated dependencies of target read_motion_state[0m
+[0.034s] [35m[1mConsolidate compiler generated dependencies of target g1_low_level_example[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target go2_stand_example[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target go2_sport_client[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target go2_robot_state_client[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target g1_arm_sdk_dds_example[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target g1_arm_action_example[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target g1_dex3_example[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target g1_loco_client_example[0m
+[0.035s] [35m[1mConsolidate compiler generated dependencies of target g1_ankle_swing_example[0m
+[0.036s] [35m[1mConsolidate compiler generated dependencies of target b2w_sport_client[0m
+[0.037s] [35m[1mConsolidate compiler generated dependencies of target low_level_ctrl_hg[0m
+[0.038s] [35m[1mConsolidate compiler generated dependencies of target b2_stand_example[0m
+[0.038s] [35m[1mConsolidate compiler generated dependencies of target b2_sport_client[0m
+[0.041s] [35m[1mConsolidate compiler generated dependencies of target h2_loco_client[0m
+[0.041s] [35m[1mConsolidate compiler generated dependencies of target g1_audio_client_example[0m
+[0.041s] [35m[1mConsolidate compiler generated dependencies of target h2_ankle_swing_example[0m
+[0.042s] [35m[1mConsolidate compiler generated dependencies of target g1_dual_arm_example[0m
+[0.045s] [35m[1mConsolidate compiler generated dependencies of target b2w_stand_example[0m
+[0.046s] [  7%] Built target g1_low_level_example
+[0.046s] [  7%] Built target read_low_state
+[0.046s] [ 12%] Built target low_level_ctrl
+[0.046s] [ 15%] Built target read_low_state_hg
+[0.046s] [ 20%] Built target g1_arm_sdk_dds_example
+[0.058s] [ 23%] Built target read_motion_state
+[0.058s] [ 26%] Built target read_wireless_controller
+[0.058s] [ 33%] Built target go2_sport_client
+[0.058s] [ 36%] Built target go2_stand_example
+[0.058s] [ 41%] Built target g1_arm_action_example
+[0.058s] [ 46%] Built target b2w_sport_client
+[0.058s] [ 53%] Built target go2_robot_state_client
+[0.058s] [ 57%] Built target g1_dex3_example
+[0.058s] [ 61%] Built target b2_stand_example
+[0.058s] [ 66%] Built target g1_ankle_swing_example
+[0.058s] [ 69%] Built target g1_loco_client_example
+[0.058s] [ 73%] Built target h2_loco_client
+[0.058s] [ 77%] Built target b2_sport_client
+[0.058s] [ 80%] Built target g1_audio_client_example
+[0.058s] [ 85%] Built target low_level_ctrl_hg
+[0.058s] [ 90%] Built target h2_ankle_swing_example
+[0.059s] [ 95%] Built target b2w_stand_example
+[0.059s] [100%] Built target g1_dual_arm_example

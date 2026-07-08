@@ -1,0 +1,18 @@
+[0.022s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2': /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2 -- -j24 -l24
+[0.195s] [ 61%] Built target livox_lidar_sdk_static
+[0.195s] [ 84%] Built target livox_lidar_sdk_shared
+[0.195s] [ 87%] Built target multi_lidars_upgrade
+[0.195s] [ 89%] Built target livox_lidar_quick_start
+[0.195s] [ 91%] Built target debug_point_cloud
+[0.195s] [ 95%] Built target livox_lidar_rmc_time_sync
+[0.195s] [ 97%] Built target logger
+[0.195s] [100%] Built target lidar_cmd_observer
+[0.315s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2' returned '0': /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2 -- -j24 -l24
+[0.325s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2': /usr/bin/cmake --install /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2
+[0.330s] -- Install configuration: ""
+[0.330s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/lib/liblivox_lidar_sdk_static.a
+[0.330s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/include/livox_lidar_def.h
+[0.330s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/include/livox_lidar_api.h
+[0.330s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/include/livox_lidar_cfg.h
+[0.330s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/lib/liblivox_lidar_sdk_shared.so
+[0.331s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2' returned '0': /usr/bin/cmake --install /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2

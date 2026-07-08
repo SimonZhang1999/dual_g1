@@ -1,0 +1,33 @@
+[0.251s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/mujuco_sim': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mujuco_sim build --build-base /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build install --record /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/install.log --single-version-externally-managed install_data
+[0.346s] running egg_info
+[0.346s] writing ../../build/mujuco_sim/mujuco_sim.egg-info/PKG-INFO
+[0.346s] writing dependency_links to ../../build/mujuco_sim/mujuco_sim.egg-info/dependency_links.txt
+[0.346s] writing entry points to ../../build/mujuco_sim/mujuco_sim.egg-info/entry_points.txt
+[0.346s] writing requirements to ../../build/mujuco_sim/mujuco_sim.egg-info/requires.txt
+[0.346s] writing top-level names to ../../build/mujuco_sim/mujuco_sim.egg-info/top_level.txt
+[0.347s] reading manifest file '../../build/mujuco_sim/mujuco_sim.egg-info/SOURCES.txt'
+[0.347s] writing manifest file '../../build/mujuco_sim/mujuco_sim.egg-info/SOURCES.txt'
+[0.347s] running build
+[0.347s] running build_py
+[0.347s] copying mujuco_sim/unitree_mujoco_shm_bridge.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim
+[0.348s] running install
+[0.348s] running install_lib
+[0.348s] copying /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim/unitree_mujoco_shm_bridge.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim
+[0.349s] byte-compiling /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim/unitree_mujoco_shm_bridge.py to unitree_mujoco_shm_bridge.cpython-310.pyc
+[0.351s] running install_data
+[0.351s] copying launch/g1_joint_mpc.launch.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/launch
+[0.351s] copying config/joint_mpc_params.yaml -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/config
+[0.351s] running install_egg_info
+[0.351s] removing '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim-0.0.1-py3.10.egg-info' (and everything under it)
+[0.355s] Copying ../../build/mujuco_sim/mujuco_sim.egg-info to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim-0.0.1-py3.10.egg-info
+[0.355s] running install_scripts
+[0.362s] Installing fastlio_tf_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.362s] Installing follower_path_tracker script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.362s] Installing follower_sim script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.362s] Installing formation_sync_controller script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.362s] Installing mpc_path_tracker script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.362s] Installing mujoco_camera_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.362s] Installing unitree_mujoco_shm_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.362s] Installing virtual_follower_odom script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.362s] writing list of installed files to '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/install.log'
+[0.373s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/mujuco_sim' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mujuco_sim build --build-base /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build install --record /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/install.log --single-version-externally-managed install_data

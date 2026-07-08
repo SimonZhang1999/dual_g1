@@ -1,0 +1,402 @@
+[0.018s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_hg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_hg -- -j24 -l24
+[0.189s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_generator_c[0m
+[0.189s] [  1%] Built target unitree_hg__rs
+[0.189s] [  1%] Built target unitree_hg__cpp
+[0.189s] [  2%] Built target unitree_hg__dds_connext_idl
+[0.189s] [ 14%] Built target unitree_hg__rosidl_generator_c
+[0.189s] [ 14%] Built target ament_cmake_python_copy_unitree_hg
+[0.189s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_typesupport_cpp[0m
+[0.189s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_typesupport_fastrtps_cpp[0m
+[0.189s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_typesupport_introspection_cpp[0m
+[0.189s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_typesupport_introspection_c[0m
+[0.189s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_typesupport_fastrtps_c[0m
+[0.189s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_typesupport_c[0m
+[0.189s] [ 26%] Built target unitree_hg__rosidl_typesupport_c
+[0.189s] [ 44%] Built target unitree_hg__rosidl_typesupport_introspection_c
+[0.189s] [ 48%] Built target unitree_hg__rosidl_typesupport_cpp
+[0.189s] [ 60%] Built target unitree_hg__rosidl_typesupport_fastrtps_cpp
+[0.189s] [ 72%] Built target unitree_hg__rosidl_typesupport_introspection_cpp
+[0.190s] [ 84%] Built target unitree_hg__rosidl_typesupport_fastrtps_c
+[0.190s] [ 84%] Built target unitree_hg
+[0.190s] [ 85%] Built target unitree_hg__py
+[0.190s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_generator_py[0m
+[0.190s] [ 95%] Built target unitree_hg__rosidl_generator_py
+[0.190s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.190s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_typesupport_c__pyext[0m
+[0.190s] [35m[1mConsolidate compiler generated dependencies of target unitree_hg__rosidl_typesupport_introspection_c__pyext[0m
+[0.190s] [ 97%] Built target unitree_hg__rosidl_typesupport_c__pyext
+[0.190s] [ 98%] Built target unitree_hg__rosidl_typesupport_fastrtps_c__pyext
+[0.190s] [100%] Built target unitree_hg__rosidl_typesupport_introspection_c__pyext
+[0.190s] running egg_info
+[0.190s] writing unitree_hg.egg-info/PKG-INFO
+[0.190s] writing dependency_links to unitree_hg.egg-info/dependency_links.txt
+[0.190s] writing top-level names to unitree_hg.egg-info/top_level.txt
+[0.190s] reading manifest file 'unitree_hg.egg-info/SOURCES.txt'
+[0.190s] writing manifest file 'unitree_hg.egg-info/SOURCES.txt'
+[0.196s] [100%] Built target ament_cmake_python_build_unitree_hg_egg
+[0.336s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_hg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_hg -- -j24 -l24
+[0.337s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_hg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_hg
+[0.346s] -- Install configuration: ""
+[0.346s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/ament_index/resource_index/rosidl_interfaces/unitree_hg
+[0.346s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg
+[0.346s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg
+[0.346s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/hand_cmd.h
+[0.346s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/low_cmd.h
+[0.347s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/hand_state.h
+[0.347s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/rosidl_generator_c__visibility_control.h
+[0.347s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/main_board_state.h
+[0.347s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/motor_state.h
+[0.348s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/low_state.h
+[0.348s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail
+[0.348s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__type_support.h
+[0.348s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__functions.c
+[0.348s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__functions.h
+[0.348s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__functions.h
+[0.348s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__functions.h
+[0.348s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__functions.h
+[0.348s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__functions.c
+[0.349s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__type_support.h
+[0.349s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__functions.c
+[0.349s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__functions.h
+[0.349s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__functions.c
+[0.349s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__struct.h
+[0.349s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__functions.h
+[0.349s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__type_support.h
+[0.349s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__functions.h
+[0.349s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__struct.h
+[0.350s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__type_support.h
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__functions.h
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__struct.h
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__functions.c
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__struct.h
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__type_support.h
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__functions.c
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__struct.h
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__struct.h
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__functions.c
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__struct.h
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__functions.c
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__type_support.h
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__functions.c
+[0.351s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__functions.h
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__type_support.h
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__type_support.h
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__functions.h
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__struct.h
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__type_support.h
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__struct.h
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__type_support.h
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__functions.c
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__functions.c
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__struct.h
+[0.353s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__struct.h
+[0.354s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__type_support.h
+[0.354s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__functions.h
+[0.354s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/bms_state.h
+[0.354s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/press_sensor_state.h
+[0.354s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/bms_cmd.h
+[0.355s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/imu_state.h
+[0.355s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/motor_cmd.h
+[0.355s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/environment/library_path.sh
+[0.355s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/environment/library_path.dsv
+[0.355s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_generator_c.so
+[0.356s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_generator_c.so" to ""
+[0.356s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg
+[0.356s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg
+[0.356s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.356s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail
+[0.356s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__rosidl_typesupport_fastrtps_c.h
+[0.356s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__rosidl_typesupport_fastrtps_c.h
+[0.356s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__rosidl_typesupport_fastrtps_c.h
+[0.357s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__rosidl_typesupport_fastrtps_c.h
+[0.357s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__rosidl_typesupport_fastrtps_c.h
+[0.357s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__rosidl_typesupport_fastrtps_c.h
+[0.357s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__rosidl_typesupport_fastrtps_c.h
+[0.357s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__rosidl_typesupport_fastrtps_c.h
+[0.357s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__rosidl_typesupport_fastrtps_c.h
+[0.357s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__rosidl_typesupport_fastrtps_c.h
+[0.357s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__rosidl_typesupport_fastrtps_c.h
+[0.357s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_fastrtps_c.so
+[0.358s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_fastrtps_c.so" to ""
+[0.358s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg
+[0.358s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/bms_cmd.hpp
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/press_sensor_state.hpp
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/low_cmd.hpp
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/motor_cmd.hpp
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/bms_state.hpp
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/hand_cmd.hpp
+[0.359s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__type_support.hpp
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__type_support.hpp
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__builder.hpp
+[0.359s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__traits.hpp
+[0.360s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__struct.hpp
+[0.360s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__struct.hpp
+[0.360s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__type_support.hpp
+[0.361s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__builder.hpp
+[0.361s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__builder.hpp
+[0.361s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__struct.hpp
+[0.361s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__traits.hpp
+[0.361s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__builder.hpp
+[0.361s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__struct.hpp
+[0.361s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__struct.hpp
+[0.362s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__traits.hpp
+[0.362s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__struct.hpp
+[0.362s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__traits.hpp
+[0.362s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__type_support.hpp
+[0.362s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__struct.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__type_support.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__builder.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__type_support.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__type_support.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__traits.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__traits.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__builder.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__struct.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__struct.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__type_support.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__traits.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__traits.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__struct.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__struct.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__traits.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__type_support.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__type_support.hpp
+[0.363s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__builder.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__builder.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__traits.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__traits.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__builder.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__builder.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__builder.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__type_support.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/hand_state.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/low_state.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.364s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/main_board_state.hpp
+[0.365s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/imu_state.hpp
+[0.365s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/motor_state.hpp
+[0.365s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg
+[0.365s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg
+[0.365s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.366s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__rosidl_typesupport_fastrtps_cpp.hpp
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__rosidl_typesupport_fastrtps_cpp.hpp
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__rosidl_typesupport_fastrtps_cpp.hpp
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__rosidl_typesupport_fastrtps_cpp.hpp
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__rosidl_typesupport_fastrtps_cpp.hpp
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__rosidl_typesupport_fastrtps_cpp.hpp
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__rosidl_typesupport_fastrtps_cpp.hpp
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__rosidl_typesupport_fastrtps_cpp.hpp
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/dds_fastrtps
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__rosidl_typesupport_fastrtps_cpp.hpp
+[0.366s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__rosidl_typesupport_fastrtps_cpp.hpp
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__rosidl_typesupport_fastrtps_cpp.hpp
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_fastrtps_cpp.so
+[0.367s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_fastrtps_cpp.so" to ""
+[0.367s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg
+[0.367s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.367s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__type_support.c
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__type_support.c
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__rosidl_typesupport_introspection_c.h
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__rosidl_typesupport_introspection_c.h
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__type_support.c
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__rosidl_typesupport_introspection_c.h
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__type_support.c
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__type_support.c
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__rosidl_typesupport_introspection_c.h
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__type_support.c
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__rosidl_typesupport_introspection_c.h
+[0.367s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__type_support.c
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__rosidl_typesupport_introspection_c.h
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__rosidl_typesupport_introspection_c.h
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__type_support.c
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__type_support.c
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__rosidl_typesupport_introspection_c.h
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__rosidl_typesupport_introspection_c.h
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__type_support.c
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__rosidl_typesupport_introspection_c.h
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__rosidl_typesupport_introspection_c.h
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__type_support.c
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_introspection_c.so
+[0.368s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_introspection_c.so" to ""
+[0.368s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_c.so
+[0.369s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_c.so" to ""
+[0.369s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg
+[0.369s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg
+[0.369s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__rosidl_typesupport_introspection_cpp.hpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__type_support.cpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__type_support.cpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__type_support.cpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_cmd__rosidl_typesupport_introspection_cpp.hpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__rosidl_typesupport_introspection_cpp.hpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__rosidl_typesupport_introspection_cpp.hpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_cmd__rosidl_typesupport_introspection_cpp.hpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__type_support.cpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__type_support.cpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/hand_state__rosidl_typesupport_introspection_cpp.hpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_state__rosidl_typesupport_introspection_cpp.hpp
+[0.369s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_state__type_support.cpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__rosidl_typesupport_introspection_cpp.hpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__rosidl_typesupport_introspection_cpp.hpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/imu_state__type_support.cpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__rosidl_typesupport_introspection_cpp.hpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/bms_cmd__rosidl_typesupport_introspection_cpp.hpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/press_sensor_state__type_support.cpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/motor_cmd__type_support.cpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/low_state__type_support.cpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/include/unitree_hg/unitree_hg/msg/detail/main_board_state__type_support.cpp
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_introspection_cpp.so
+[0.370s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_introspection_cpp.so" to ""
+[0.370s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_cpp.so
+[0.370s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_typesupport_cpp.so" to ""
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/environment/pythonpath.sh
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/environment/pythonpath.dsv
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg-0.0.0-py3.10.egg-info
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg-0.0.0-py3.10.egg-info/top_level.txt
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg-0.0.0-py3.10.egg-info/PKG-INFO
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/_unitree_hg_s.ep.rosidl_typesupport_introspection_c.c
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/unitree_hg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/unitree_hg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_bms_state_s.c
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_motor_cmd_s.c
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_motor_state_s.c
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_low_state.py
+[0.371s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_hand_cmd.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_motor_cmd.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_hand_state_s.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_motor_state.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_hand_cmd_s.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_main_board_state.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_imu_state.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_hand_state.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_press_sensor_state_s.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_low_state_s.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_low_cmd_s.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_bms_state.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_imu_state_s.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_bms_cmd.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_low_cmd.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_bms_cmd_s.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/__init__.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_main_board_state_s.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_press_sensor_state.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/libunitree_hg__rosidl_generator_py.so
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/__init__.py
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/_unitree_hg_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/_unitree_hg_s.ep.rosidl_typesupport_c.c
+[0.373s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/unitree_hg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.389s] Listing '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg'...
+[0.389s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/__init__.py'...
+[0.390s] Listing '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/__init__.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_bms_cmd.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_bms_state.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_hand_cmd.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_hand_state.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_imu_state.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_low_cmd.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_low_state.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_main_board_state.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_motor_cmd.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_motor_state.py'...
+[0.390s] Compiling '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/msg/_press_sensor_state.py'...
+[0.392s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/unitree_hg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.393s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/unitree_hg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[0.393s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/unitree_hg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.393s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/unitree_hg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[0.393s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/unitree_hg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.393s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages/unitree_hg/unitree_hg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[0.393s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_generator_py.so
+[0.393s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib/libunitree_hg__rosidl_generator_py.so" to ""
+[0.393s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/ament_index/resource_index/rust_packages/unitree_hg
+[0.393s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/rust
+[0.393s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/rust/Cargo.toml
+[0.393s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/rust/build.rs
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/rust/src
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/rust/src/lib.rs
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/rust/src/msg.rs
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/rust/src/msg
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/rust/src/msg/rmw.rs
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/BmsCmd.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/BmsState.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/HandCmd.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/HandState.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/IMUState.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/LowCmd.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/LowState.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/MainBoardState.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/MotorCmd.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/MotorState.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/PressSensorState.idl
+[0.394s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/BmsCmd.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/BmsState.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/HandCmd.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/HandState.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/IMUState.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/LowCmd.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/LowState.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/MainBoardState.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/MotorCmd.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/MotorState.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/PressSensorState.msg
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/MainBoardState_.idl
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/MotorState_.idl
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/BmsState_.idl
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/IMUState_.idl
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/MotorCmd_.idl
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/LowState_.idl
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/LowCmd_.idl
+[0.395s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/BmsCmd_.idl
+[0.396s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/PressSensorState_.idl
+[0.396s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/HandState_.idl
+[0.396s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/msg/dds_connext/HandCmd_.idl
+[0.396s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/ament_index/resource_index/package_run_dependencies/unitree_hg
+[0.396s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/ament_index/resource_index/parent_prefix_path/unitree_hg
+[0.396s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/environment/ament_prefix_path.sh
+[0.396s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/environment/ament_prefix_path.dsv
+[0.396s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/environment/path.sh
+[0.396s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/environment/path.dsv
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/local_setup.bash
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/local_setup.sh
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/local_setup.zsh
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/local_setup.dsv
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/package.dsv
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/ament_index/resource_index/packages/unitree_hg
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/export_unitree_hg__rosidl_generator_cExport.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/export_unitree_hg__rosidl_generator_cExport-noconfig.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/export_unitree_hg__rosidl_typesupport_fastrtps_cExport.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/export_unitree_hg__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/export_unitree_hg__rosidl_generator_cppExport.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/export_unitree_hg__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/export_unitree_hg__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hg__rosidl_typesupport_introspection_cExport.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hg__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hg__rosidl_typesupport_cExport.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hg__rosidl_typesupport_cExport-noconfig.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hg__rosidl_typesupport_introspection_cppExport.cmake
+[0.397s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hg__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hg__rosidl_typesupport_cppExport.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hg__rosidl_typesupport_cppExport-noconfig.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/export_unitree_hg__rosidl_generator_pyExport.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/export_unitree_hg__rosidl_generator_pyExport-noconfig.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/rosidl_cmake-extras.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/ament_cmake_export_libraries-extras.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/ament_cmake_export_targets-extras.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hgConfig.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/cmake/unitree_hgConfig-version.cmake
+[0.398s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/share/unitree_hg/package.xml
+[0.401s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_hg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_hg

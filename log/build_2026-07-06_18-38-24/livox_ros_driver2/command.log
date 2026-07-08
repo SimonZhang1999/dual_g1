@@ -1,0 +1,1 @@
+Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_ros_driver2': /usr/bin/cmake /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/livox_ros_driver2 -DPython3_EXECUTABLE=/usr/bin/python3 -DCMAKE_INSTALL_PREFIX=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_ros_driver2

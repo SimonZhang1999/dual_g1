@@ -1,0 +1,135 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Setting build type to 'Release' as none was specified.
+-- Current system architecture: x86_64
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Importing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/thirdparty/lib/x86_64/libddsc.so
+-- Importing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/thirdparty/lib/x86_64/libddscxx.so
+-- Unitree SDK library found at: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/lib/x86_64/libunitree_sdk2.a
+-- Importing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/lib/x86_64/libunitree_sdk2.a
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: program_options 
+-- Found yaml-cpp version 0.7.0
+-- Configuring done
+-- Generating done
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    Python3_EXECUTABLE
+
+[0m
+-- Build files have been written to: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_sdk2
+[  1%] [32mBuilding CXX object example/helloworld/CMakeFiles/test_publisher.dir/publisher.cpp.o[0m
+[  2%] [32mBuilding CXX object example/helloworld/CMakeFiles/test_publisher.dir/HelloWorldData.cpp.o[0m
+[  3%] [32mBuilding CXX object example/helloworld/CMakeFiles/test_subscriber.dir/subscriber.cpp.o[0m
+[  4%] [32mBuilding CXX object example/jsonize/CMakeFiles/test_jsonize.dir/test_jsonize.cpp.o[0m
+[  5%] [32mBuilding CXX object example/helloworld/CMakeFiles/test_subscriber.dir/HelloWorldData.cpp.o[0m
+[  6%] [32mBuilding CXX object example/wireless_controller/CMakeFiles/advanced_gamepad.dir/main.cpp.o[0m
+[  7%] [32mBuilding CXX object example/state_machine/CMakeFiles/state_machine_example.dir/main.cpp.o[0m
+[  9%] [32mBuilding CXX object example/go2/CMakeFiles/go2_sport_client.dir/go2_sport_client.cpp.o[0m
+[ 10%] [32mBuilding CXX object example/go2/CMakeFiles/go2_low_level.dir/go2_low_level.cpp.o[0m
+[ 11%] [32mBuilding CXX object example/go2/CMakeFiles/go2_stand_example.dir/go2_stand_example.cpp.o[0m
+[ 12%] [32mBuilding CXX object example/go2/CMakeFiles/go2_robot_state_client.dir/go2_robot_state_client.cpp.o[0m
+[ 13%] [32mBuilding CXX object example/go2/CMakeFiles/go2_video_client.dir/go2_video_client.cpp.o[0m
+[ 14%] [32mBuilding CXX object example/go2/CMakeFiles/go2_vui_client.dir/go2_vui_client.cpp.o[0m
+[ 15%] [32mBuilding CXX object example/h1/CMakeFiles/h1_2_arm_sdk_dds_example.dir/high_level/h1_2_arm_sdk_dds_example.cpp.o[0m
+[ 17%] [32mBuilding CXX object example/b2/CMakeFiles/b2_stand_example.dir/b2_stand_example.cpp.o[0m
+[ 18%] [32mBuilding CXX object example/h1/CMakeFiles/h1_loco_client.dir/high_level/h1_loco_client_example.cpp.o[0m
+[ 19%] [32mBuilding CXX object example/h1/CMakeFiles/h1_low_level_example.dir/low_level/humanoid.cpp.o[0m
+[ 20%] [32mBuilding CXX object example/h1/CMakeFiles/h1_27dof_example.dir/low_level/h1_27dof_example.cpp.o[0m
+[ 21%] [32mBuilding CXX object example/h1/CMakeFiles/h1_2_ankle_track.dir/low_level/h1_2_ankle_track.cpp.o[0m
+[ 22%] [32mBuilding CXX object example/b2/CMakeFiles/b2_sport_client.dir/b2_sport_client.cpp.o[0m
+[ 23%] [32mBuilding CXX object example/h1/CMakeFiles/h1_arm_sdk_dds_example.dir/high_level/h1_arm_sdk_dds_example.cpp.o[0m
+[ 25%] [32mBuilding CXX object example/g1/CMakeFiles/g1_arm5_sdk_dds_example.dir/high_level/g1_arm5_sdk_dds_example.cpp.o[0m
+[ 26%] [32mBuilding CXX object example/g1/CMakeFiles/g1_arm7_sdk_dds_example.dir/high_level/g1_arm7_sdk_dds_example.cpp.o[0m
+[ 27%] [32mBuilding CXX object example/g1/CMakeFiles/g1_loco_client.dir/high_level/g1_loco_client_example.cpp.o[0m
+[ 28%] [32mBuilding CXX object example/g1/CMakeFiles/g1_ankle_swing_example.dir/low_level/g1_ankle_swing_example.cpp.o[0m
+[ 29%] [32mBuilding CXX object example/g1/CMakeFiles/g1_audio_client_example.dir/audio/g1_audio_client_example.cpp.o[0m
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/go2/go2_low_level.cpp:[m[K In member function ‘[01m[Kvoid Custom::Init()[m[K’:
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/go2/go2_low_level.cpp:106:28:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+  106 |     lowCmdWriteThreadPtr = [01;31m[KCreateRecurrentThreadEx[m[K("writebasiccmd", UT_CPU_ID_NONE, 2000, &Custom::LowCmdWrite, this);
+      |                            [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 30%] [32m[1mLinking CXX executable ../../bin/go2_video_client[0m
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/h1/low_level/h1_2_ankle_track.cpp:[m[K In constructor ‘[01m[KH1Example::H1Example(std::string)[m[K’:
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/h1/low_level/h1_2_ankle_track.cpp:74:27:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+   74 |     control_thread_ptr_ = [01;31m[KCreateRecurrentThreadEx[m[K(
+      |                           [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 31%] [32m[1mLinking CXX executable ../../bin/go2_robot_state_client[0m
+[ 32%] [32m[1mLinking CXX executable ../../bin/b2_sport_client[0m
+[ 32%] Built target go2_video_client
+[ 34%] [32mBuilding CXX object example/g1/CMakeFiles/g1_dex3_example.dir/dex3/g1_dex3_example.cpp.o[0m
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/h1/low_level/h1_27dof_example.cpp:[m[K In constructor ‘[01m[KH1Example::H1Example(std::string)[m[K’:
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/h1/low_level/h1_27dof_example.cpp:205:9:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+  205 |         [01;31m[KCreateRecurrentThreadEx[m[K("command_writer", UT_CPU_ID_NONE, 2000,
+      |         [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/state_machine/main.cpp:12[m[K:
+/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/state_machine/robot_controller.hpp: In instantiation of ‘[01m[Kvoid RobotController<USER_CTRL>::StartControl() [with USER_CTRL = unitree::common::ExampleUserController][m[K’:
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/state_machine/main.cpp:57:34:[m[K   required from here
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/state_machine/robot_controller.hpp:87:53:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+   87 |         control_thread_ptr = [01;31m[KCreateRecurrentThreadEx("ctrl", UT_CPU_ID_NONE, ctrl_dt_micro_sec, &RobotController::ControlStep, this)[m[K;
+      |                              [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+gmake[2]: *** [example/h1/CMakeFiles/h1_2_ankle_track.dir/build.make:76: example/h1/CMakeFiles/h1_2_ankle_track.dir/low_level/h1_2_ankle_track.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:823: example/h1/CMakeFiles/h1_2_ankle_track.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+[ 35%] [32m[1mLinking CXX executable ../../bin/test_jsonize[0m
+[ 35%] Built target go2_robot_state_client
+gmake[2]: *** [example/go2/CMakeFiles/go2_low_level.dir/build.make:76: example/go2/CMakeFiles/go2_low_level.dir/go2_low_level.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:563: example/go2/CMakeFiles/go2_low_level.dir/all] Error 2
+[ 35%] Built target test_jsonize
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/wireless_controller/main.cpp:[m[K In member function ‘[01m[Kvoid GamepadExample::Start()[m[K’:
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_sdk2/example/wireless_controller/main.cpp:74:30:[m[K [01;31m[Kerror: [m[K‘[01m[KCreateRecurrentThreadEx[m[K’ was not declared in this scope
+   74 |         control_thread_ptr = [01;31m[KCreateRecurrentThreadEx[m[K("nn_ctrl", UT_CPU_ID_NONE, 40000, &GamepadExample::Step, this);
+      |                              [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 36%] [32m[1mLinking CXX executable ../../bin/go2_vui_client[0m
+[ 36%] Built target b2_sport_client
+gmake[2]: *** [example/h1/CMakeFiles/h1_27dof_example.dir/build.make:76: example/h1/CMakeFiles/h1_27dof_example.dir/low_level/h1_27dof_example.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:797: example/h1/CMakeFiles/h1_27dof_example.dir/all] Error 2
+gmake[2]: *** [example/wireless_controller/CMakeFiles/advanced_gamepad.dir/build.make:76: example/wireless_controller/CMakeFiles/advanced_gamepad.dir/main.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:459: example/wireless_controller/CMakeFiles/advanced_gamepad.dir/all] Error 2
+gmake[2]: *** [example/state_machine/CMakeFiles/state_machine_example.dir/build.make:76: example/state_machine/CMakeFiles/state_machine_example.dir/main.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:511: example/state_machine/CMakeFiles/state_machine_example.dir/all] Error 2
+[ 36%] Built target go2_vui_client
+[ 37%] [32m[1mLinking CXX executable ../../bin/test_publisher[0m
+[ 38%] [32m[1mLinking CXX executable ../../bin/test_subscriber[0m
+[ 38%] Built target test_publisher
+[ 39%] [32m[1mLinking CXX executable ../../bin/g1_loco_client[0m
+[ 39%] Built target test_subscriber
+[ 40%] [32m[1mLinking CXX executable ../../bin/h1_loco_client[0m
+[ 40%] Built target g1_loco_client
+[ 42%] [32m[1mLinking CXX executable ../../bin/go2_sport_client[0m
+[ 42%] Built target h1_loco_client
+[ 42%] Built target go2_sport_client
+[ 43%] [32m[1mLinking CXX executable ../../bin/h1_2_arm_sdk_dds_example[0m
+[ 43%] Built target h1_2_arm_sdk_dds_example
+[ 44%] [32m[1mLinking CXX executable ../../bin/g1_audio_client_example[0m
+[ 45%] [32m[1mLinking CXX executable ../../bin/g1_arm5_sdk_dds_example[0m
+[ 45%] Built target g1_arm5_sdk_dds_example
+[ 46%] [32m[1mLinking CXX executable ../../bin/h1_arm_sdk_dds_example[0m
+[ 46%] Built target g1_audio_client_example
+[ 47%] [32m[1mLinking CXX executable ../../bin/b2_stand_example[0m
+[ 47%] Built target h1_arm_sdk_dds_example
+[ 48%] [32m[1mLinking CXX executable ../../bin/g1_arm7_sdk_dds_example[0m
+[ 48%] Built target b2_stand_example
+[ 48%] Built target g1_arm7_sdk_dds_example
+[ 50%] [32m[1mLinking CXX executable ../../bin/h1_low_level_example[0m
+[ 50%] Built target h1_low_level_example
+[ 51%] [32m[1mLinking CXX executable ../../bin/g1_dex3_example[0m
+[ 52%] [32m[1mLinking CXX executable ../../bin/go2_stand_example[0m
+[ 52%] Built target g1_dex3_example
+[ 52%] Built target go2_stand_example
+[ 53%] [32m[1mLinking CXX executable ../../bin/g1_ankle_swing_example[0m
+[ 53%] Built target g1_ankle_swing_example
+gmake: *** [Makefile:136: all] Error 2

@@ -1,0 +1,29 @@
+[0.246s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim': PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build --no-deps symlink_data --force
+[0.351s] running develop
+[0.410s] running egg_info
+[0.410s] writing mujuco_sim.egg-info/PKG-INFO
+[0.410s] writing dependency_links to mujuco_sim.egg-info/dependency_links.txt
+[0.410s] writing entry points to mujuco_sim.egg-info/entry_points.txt
+[0.410s] writing requirements to mujuco_sim.egg-info/requires.txt
+[0.410s] writing top-level names to mujuco_sim.egg-info/top_level.txt
+[0.411s] reading manifest file 'mujuco_sim.egg-info/SOURCES.txt'
+[0.411s] writing manifest file 'mujuco_sim.egg-info/SOURCES.txt'
+[0.412s] running build_ext
+[0.412s] Creating /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco-sim.egg-link (link to .)
+[0.412s] Installing fastlio_tf_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.412s] Installing mujoco_camera_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.412s] Installing unitree_mujoco_shm_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+[0.412s] 
+[0.412s] Installed /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim
+[0.412s] running symlink_data
+[0.412s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/resource/mujuco_sim -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/ament_index/resource_index/packages
+[0.412s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/package.xml -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim
+[0.412s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/launch/map.launch.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/launch
+[0.412s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/launch/g1_nav_loco.launch.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/launch
+[0.412s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/launch/nav.launch.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/launch
+[0.413s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/launch/g1_nav_sim.launch.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/launch
+[0.413s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/config/g1_nav2_params.yaml -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/config
+[0.413s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/config/g1_slam_toolbox.yaml -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/config
+[0.413s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/config/cyclonedds_lo.xml -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/config
+[0.413s] symbolically linking /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/map.rviz -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/rviz
+[0.427s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim' returned '0': PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build --no-deps symlink_data --force

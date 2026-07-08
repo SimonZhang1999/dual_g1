@@ -1,0 +1,15 @@
+[0mRelease mode[0m
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    Python3_EXECUTABLE
+
+[0m
+[01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_mujoco/simulate/src/main.cc:17:10:[m[K [01;31m[Kfatal error: [m[Kglfw_adapter.h: No such file or directory
+   17 | #include [01;31m[K"glfw_adapter.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/unitree_mujoco.dir/build.make:104: CMakeFiles/unitree_mujoco.dir/src/main.cc.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[1]: *** [CMakeFiles/Makefile2:85: CMakeFiles/unitree_mujoco.dir/all] Error 2
+gmake: *** [Makefile:91: all] Error 2

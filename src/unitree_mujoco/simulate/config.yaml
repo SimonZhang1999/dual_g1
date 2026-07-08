@@ -1,0 +1,17 @@
+robot: "g1"  # Robot name, "go2", "b2", "b2w", "h1", "go2w", "g1"
+# robot_scene: "scene_29dof.xml" # Robot scene, /unitree_robots/[robot]/scene.xml 
+# robot_scene: "navigation_room_29dof.xml"
+robot_scene: "vln_apartment_29dof.xml"
+
+domain_id: 1  # Domain id
+interface: "auto" # DDS network interface; "auto" lets Unitree SDK select a multicast-capable interface
+
+use_joystick: 0 # Simulate Unitree WirelessController using a gamepad
+joystick_type: "xbox" # support "xbox" and "switch" gamepad layout
+joystick_device: "/dev/input/js0" # Device path
+joystick_bits: 16 # Some game controllers may only have 8-bit accuracy
+
+print_scene_information: 1 # Print link, joint and sensors information of robot
+
+enable_elastic_band: 0 # Base is locked by a weld in FixStand; keep band off to avoid drift
+enable_follower_teleport: 0 # 0 = follower is controlled by its own g1_ctrl; 1 = legacy ghost follower teleport

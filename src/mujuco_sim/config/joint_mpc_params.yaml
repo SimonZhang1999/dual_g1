@@ -1,0 +1,101 @@
+# Joint MPC Planner parameters for two G1 robots in one MuJoCo scene.
+joint_mpc_goal_manager:
+  ros__parameters:
+    global_frame: "map"
+
+    # ── topic remappings ─────────────────────────────────────────────
+    # Obstacle source: Nav2 global costmap (2D occupancy grid from /scan)
+    map_topic: "/global_costmap/costmap"
+
+    # Goal input: RViz 2D Nav Goal
+    goal_topic: "/goal_pose"
+    legacy_goal_topic: "/move_base_simple/goal"
+    initial_pose_topic: "/initialpose"
+
+    # Odometry
+    leader_odom_topic:   "/odom"
+    follower_odom_topic: "/follower/odom"
+
+    # Output paths (latched nav_msgs/Path for RViz + tracker)
+    leader_reference_topic:   "/formation/leader_reference"
+    follower_reference_topic: "/formation/follower_reference"
+    formation_reference_topic: "/formation/formation_reference"
+
+    # Visualization (MarkerArray)
+    joint_trajectory_markers_topic: "/formation/joint_mpc_trajectory"
+    sfc_markers_topic:              "/formation/sfc_markers"
+
+    leader_goal_topic:    "/formation/leader_goal"
+    goal_active_topic:    "/formation/goal_active"
+    goal_reached_topic:   "/formation/goal_reached"
+    status_topic:         "/formation/goal_status"
+
+    # ── formation geometry (box-carrying, face-to-face) ──────────────
+    desired_base_distance: 1.80
+    min_base_distance:     1.48
+    max_base_distance:     2.12
+    hand_forward:          0.35
+    hand_lateral:          0.28
+    robot_radius:          0.28    # G1 body radius (0.28m matches nav2 params)
+
+    # ── MPC solver ───────────────────────────────────────────────────
+    mpc_horizon_steps:      36
+    mpc_auto_horizon:       true
+    mpc_max_horizon_steps:  120
+    mpc_nominal_speed:      0.28
+    mpc_knot_spacing:       0.20
+    mpc_dt:                 0.18
+    mpc_optimize_time:      false
+    mpc_min_dt:             0.10
+    mpc_max_dt:             1.20
+    mpc_ipopt_max_iter:     400
+    mpc_ipopt_print_level:  0
+
+    # ── velocity limits (match g1 MPPI limits) ───────────────────────
+    max_vx_forward:  0.30
+    max_vx_backward: 0.15
+    max_vy:          0.20
+    max_xy_speed:    0.35
+    max_vyaw:        0.50
+    max_ax:          2.0
+    max_ay:          1.5
+    max_aw:          1.5
+
+    # ── cost weights ─────────────────────────────────────────────────
+    mpc_smooth_weight:          8.0
+    mpc_tracking_weight:        2.0
+    mpc_formation_weight:       1.0
+    mpc_control_weight:         0.5
+    mpc_goal_position_weight:   0.0   # hard terminal handles this
+    mpc_goal_yaw_weight:        0.0
+
+    # ── hard constraints ─────────────────────────────────────────────
+    mpc_hard_terminal:             true
+    mpc_hard_terminal_yaw:         false
+    mpc_terminal_position_tolerance: 0.30
+    mpc_terminal_yaw_tolerance:    0.35
+    mpc_hard_base_distance:        true    # enforce min/max inter-robot distance
+    mpc_hard_robot_collision:      true    # keep robots from overlapping
+    mpc_hard_base_order:           true
+    mpc_base_order_margin:         0.0
+    mpc_hard_topology:             true    # four-hand topology: wrist-to-wrist feasible
+    mpc_hard_differential_dynamics: false
+
+    # ── safe corridor (SFC) obstacle avoidance ───────────────────────
+    sfc_enabled:               true
+    sfc_required:              true
+    sfc_local_bbox_x:          3.0
+    sfc_local_bbox_y:          2.0
+    sfc_dilation_offset:       0.10
+    sfc_constraint_margin:     0.0
+    sfc_max_segments:          120
+    sfc_max_obstacles:         12000
+    sfc_nearest_free_radius_cells: 20
+    sfc_astar_max_expansions:  80000
+    ignore_obstacles:          false
+
+    # ── obstacle grid ────────────────────────────────────────────────
+    # The global_costmap is pre-inflated by Nav2's inflation_layer.
+    obstacle_grid_preinflated: true
+    occupied_threshold:        98
+    unknown_is_occupied:       false

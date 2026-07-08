@@ -1,0 +1,40 @@
+[0.018s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2': /usr/bin/cmake /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/Livox-SDK2 -DPython3_EXECUTABLE=/usr/bin/python3 -DMUJOCO_DIR=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_PREFIX_PATH=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_INSTALL_PREFIX=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2
+[0.139s] -- main project dir: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/Livox-SDK2
+[0.139s] -- main project dir: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/Livox-SDK2/samples
+[0.139s] -- Configuring done
+[0.139s] -- Generating done
+[0.139s] -- Build files have been written to: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2
+[0.139s] [33mCMake Warning:
+[0.139s]   Manually-specified variables were not used by the project:
+[0.139s] 
+[0.139s]     CMAKE_PREFIX_PATH
+[0.140s]     MUJOCO_DIR
+[0.140s] 
+[0.140s] [0m
+[0.247s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2' returned '0': /usr/bin/cmake /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/Livox-SDK2 -DPython3_EXECUTABLE=/usr/bin/python3 -DMUJOCO_DIR=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_PREFIX_PATH=/home/simonzhang/.mujoco/mujoco-3.2.7 -DCMAKE_INSTALL_PREFIX=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2
+[0.248s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2': /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2 -- -j24 -l24
+[0.273s] [35m[1mConsolidate compiler generated dependencies of target livox_lidar_sdk_static[0m
+[0.277s] [35m[1mConsolidate compiler generated dependencies of target livox_lidar_sdk_shared[0m
+[0.314s] [ 42%] Built target livox_lidar_sdk_static
+[0.324s] [ 84%] Built target livox_lidar_sdk_shared
+[0.324s] [35m[1mConsolidate compiler generated dependencies of target livox_lidar_quick_start[0m
+[0.324s] [35m[1mConsolidate compiler generated dependencies of target multi_lidars_upgrade[0m
+[0.324s] [35m[1mConsolidate compiler generated dependencies of target logger[0m
+[0.324s] [35m[1mConsolidate compiler generated dependencies of target debug_point_cloud[0m
+[0.324s] [35m[1mConsolidate compiler generated dependencies of target lidar_cmd_observer[0m
+[0.324s] [35m[1mConsolidate compiler generated dependencies of target livox_lidar_rmc_time_sync[0m
+[0.325s] [ 87%] Built target multi_lidars_upgrade
+[0.325s] [ 89%] Built target livox_lidar_quick_start
+[0.325s] [ 92%] Built target livox_lidar_rmc_time_sync
+[0.325s] [ 97%] Built target logger
+[0.325s] [ 97%] Built target debug_point_cloud
+[0.325s] [100%] Built target lidar_cmd_observer
+[0.327s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2' returned '0': /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2 -- -j24 -l24
+[0.328s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2': /usr/bin/cmake --install /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2
+[0.333s] -- Install configuration: ""
+[0.333s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/lib/liblivox_lidar_sdk_static.a
+[0.333s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/include/livox_lidar_def.h
+[0.333s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/include/livox_lidar_api.h
+[0.333s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/include/livox_lidar_cfg.h
+[0.333s] -- Up-to-date: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/livox_sdk2/lib/liblivox_lidar_sdk_shared.so
+[0.334s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2' returned '0': /usr/bin/cmake --install /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/livox_sdk2

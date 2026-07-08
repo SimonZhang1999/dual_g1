@@ -1,0 +1,104 @@
+[0.011s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example': AMENT_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:/opt/ros/humble LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example -- -j24 -l24
+[0.041s] [35m[1mConsolidate compiler generated dependencies of target low_level_ctrl[0m
+[0.042s] [35m[1mConsolidate compiler generated dependencies of target read_wireless_controller[0m
+[0.042s] [35m[1mConsolidate compiler generated dependencies of target read_low_state_hg[0m
+[0.042s] [35m[1mConsolidate compiler generated dependencies of target read_low_state[0m
+[0.042s] [35m[1mConsolidate compiler generated dependencies of target read_motion_state[0m
+[0.043s] [35m[1mConsolidate compiler generated dependencies of target g1_low_level_example[0m
+[0.043s] [35m[1mConsolidate compiler generated dependencies of target low_level_ctrl_hg[0m
+[0.043s] [35m[1mConsolidate compiler generated dependencies of target go2_robot_state_client[0m
+[0.043s] [35m[1mConsolidate compiler generated dependencies of target g1_arm_action_example[0m
+[0.048s] [35m[1mConsolidate compiler generated dependencies of target go2_stand_example[0m
+[0.048s] [35m[1mConsolidate compiler generated dependencies of target b2w_stand_example[0m
+[0.048s] [35m[1mConsolidate compiler generated dependencies of target g1_arm_sdk_dds_example[0m
+[0.048s] [35m[1mConsolidate compiler generated dependencies of target go2_sport_client[0m
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target g1_dex3_example[0m
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target g1_audio_client_example[0m
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target g1_loco_client_example[0m
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target b2_stand_example[0m
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target g1_dual_arm_example[0m
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target g1_ankle_swing_example[0m
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target b2w_sport_client[0m
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target h2_loco_client[0m
+[0.051s] [35m[1mConsolidate compiler generated dependencies of target b2_sport_client[0m
+[0.052s] [  4%] Built target go2_robot_state_client
+[0.053s] [35m[1mConsolidate compiler generated dependencies of target h2_ankle_swing_example[0m
+[0.053s] [ 11%] Built target g1_low_level_example
+[0.053s] [ 14%] Built target read_motion_state
+[0.053s] [ 15%] Built target read_low_state
+[0.054s] [ 20%] Built target low_level_ctrl
+[0.055s] [ 23%] Built target read_wireless_controller
+[0.056s] [ 26%] Built target read_low_state_hg
+[0.056s] [ 30%] Built target g1_audio_client_example
+[0.057s] [ 34%] Built target low_level_ctrl_hg
+[0.057s] [ 39%] Built target g1_arm_action_example
+[0.057s] [ 44%] Built target go2_stand_example
+[0.057s] [ 49%] Built target go2_sport_client
+[0.058s] [ 53%] Built target g1_ankle_swing_example
+[0.060s] [ 58%] Built target g1_dual_arm_example
+[0.060s] [ 63%] Built target g1_arm_sdk_dds_example
+[0.060s] [ 68%] Built target g1_dex3_example
+[0.060s] [ 73%] Built target b2w_sport_client
+[0.060s] [ 77%] Built target b2w_stand_example
+[0.060s] [ 80%] Built target h2_loco_client
+[0.062s] [ 90%] Built target b2_stand_example
+[0.062s] [ 90%] Built target b2_sport_client
+[0.062s] [ 95%] Built target g1_loco_client_example
+[0.063s] [100%] Built target h2_ankle_swing_example
+[0.071s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example' returned '0': AMENT_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:/opt/ros/humble LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example -- -j24 -l24
+[0.073s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example': AMENT_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:/opt/ros/humble LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example
+[0.077s] -- Install configuration: ""
+[0.077s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/low_level_ctrl
+[0.078s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/low_level_ctrl" to ""
+[0.078s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/low_level_ctrl_hg
+[0.079s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/low_level_ctrl_hg" to ""
+[0.079s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_low_level_example
+[0.081s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_low_level_example" to ""
+[0.081s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/read_low_state
+[0.082s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/read_low_state" to ""
+[0.082s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/read_low_state_hg
+[0.083s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/read_low_state_hg" to ""
+[0.083s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/read_motion_state
+[0.084s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/read_motion_state" to ""
+[0.084s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/read_wireless_controller
+[0.086s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/read_wireless_controller" to ""
+[0.086s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/go2_sport_client
+[0.088s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/go2_sport_client" to ""
+[0.088s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/go2_stand_example
+[0.090s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/go2_stand_example" to ""
+[0.090s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/go2_robot_state_client
+[0.092s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/go2_robot_state_client" to ""
+[0.092s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_arm_sdk_dds_example
+[0.093s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_arm_sdk_dds_example" to ""
+[0.093s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_arm_action_example
+[0.095s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_arm_action_example" to ""
+[0.095s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_dex3_example
+[0.096s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_dex3_example" to ""
+[0.096s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_loco_client_example
+[0.098s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_loco_client_example" to ""
+[0.098s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_ankle_swing_example
+[0.100s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_ankle_swing_example" to ""
+[0.100s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_dual_arm_example
+[0.103s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_dual_arm_example" to ""
+[0.103s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_audio_client_example
+[0.104s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/g1_audio_client_example" to ""
+[0.105s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/h2_loco_client
+[0.106s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/h2_loco_client" to ""
+[0.106s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/h2_ankle_swing_example
+[0.107s] -- Set runtime path of "/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/bin/h2_ankle_swing_example" to ""
+[0.107s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/ament_index/resource_index/package_run_dependencies/unitree_ros2_example
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/ament_index/resource_index/parent_prefix_path/unitree_ros2_example
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/environment/ament_prefix_path.sh
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/environment/ament_prefix_path.dsv
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/environment/path.sh
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/environment/path.dsv
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/local_setup.bash
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/local_setup.sh
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/local_setup.zsh
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/local_setup.dsv
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/package.dsv
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/ament_index/resource_index/packages/unitree_ros2_example
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/cmake/unitree_ros2_exampleConfig.cmake
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/cmake/unitree_ros2_exampleConfig-version.cmake
+[0.108s] -- Installing: /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_ros2_example/share/unitree_ros2_example/package.xml
+[0.110s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example' returned '0': AMENT_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api:/opt/ros/humble LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/lib:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_hg/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_go/local/lib/python3.10/dist-packages:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_api/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_ros2_example

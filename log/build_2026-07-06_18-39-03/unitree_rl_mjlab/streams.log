@@ -1,0 +1,18 @@
+[1.032s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_rl_mjlab': PYTHONPATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_rl_mjlab/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_rl_mjlab/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/unitree_rl_mjlab build --build-base /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_rl_mjlab/build install --record /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_rl_mjlab/install.log --single-version-externally-managed
+[1.259s] running egg_info
+[1.264s] writing ../../build/unitree_rl_mjlab/unitree_rl_mjlab.egg-info/PKG-INFO
+[1.264s] writing dependency_links to ../../build/unitree_rl_mjlab/unitree_rl_mjlab.egg-info/dependency_links.txt
+[1.264s] writing requirements to ../../build/unitree_rl_mjlab/unitree_rl_mjlab.egg-info/requires.txt
+[1.264s] writing top-level names to ../../build/unitree_rl_mjlab/unitree_rl_mjlab.egg-info/top_level.txt
+[1.264s] reading manifest file '../../build/unitree_rl_mjlab/unitree_rl_mjlab.egg-info/SOURCES.txt'
+[1.264s] adding license file 'LICENCE'
+[1.264s] writing manifest file '../../build/unitree_rl_mjlab/unitree_rl_mjlab.egg-info/SOURCES.txt'
+[1.264s] running build
+[1.264s] running build_py
+[1.264s] running install
+[1.265s] running install_lib
+[1.265s] running install_egg_info
+[1.265s] removing '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_rl_mjlab/lib/python3.10/site-packages/unitree_rl_mjlab-0.0.1-py3.10.egg-info' (and everything under it)
+[1.265s] Copying ../../build/unitree_rl_mjlab/unitree_rl_mjlab.egg-info to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_rl_mjlab/lib/python3.10/site-packages/unitree_rl_mjlab-0.0.1-py3.10.egg-info
+[1.265s] running install_scripts
+[1.277s] writing list of installed files to '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_rl_mjlab/install.log'

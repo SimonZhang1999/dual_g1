@@ -1,0 +1,13 @@
+[0.011s] Invoking command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco': CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2 LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco -- -j24 -l24
+[0.032s] [35m[1mConsolidate compiler generated dependencies of target unitree_mujoco[0m
+[0.033s] [35m[1mConsolidate compiler generated dependencies of target jstest[0m
+[0.041s] [ 12%] [32mBuilding CXX object CMakeFiles/unitree_mujoco.dir/src/main.cc.o[0m
+[0.043s] [ 50%] Built target jstest
+[0.050s] [01m[K/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/src/unitree_mujoco/simulate/src/main.cc:17:10:[m[K [01;31m[Kfatal error: [m[Kglfw_adapter.h: No such file or directory
+[0.051s]    17 | #include [01;31m[K"glfw_adapter.h"[m[K
+[0.051s]       |          [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[0.051s] compilation terminated.
+[0.051s] gmake[2]: *** [CMakeFiles/unitree_mujoco.dir/build.make:104: CMakeFiles/unitree_mujoco.dir/src/main.cc.o] Error 1
+[0.051s] gmake[1]: *** [CMakeFiles/Makefile2:85: CMakeFiles/unitree_mujoco.dir/all] Error 2
+[0.051s] gmake: *** [Makefile:91: all] Error 2
+[0.067s] Invoked command in '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco' returned '2': CMAKE_PREFIX_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2 LD_LIBRARY_PATH=/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/unitree_sdk2/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/unitree_mujoco -- -j24 -l24

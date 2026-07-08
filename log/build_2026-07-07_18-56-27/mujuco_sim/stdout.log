@@ -1,0 +1,31 @@
+running egg_info
+writing ../../build/mujuco_sim/mujuco_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/mujuco_sim/mujuco_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/mujuco_sim/mujuco_sim.egg-info/entry_points.txt
+writing requirements to ../../build/mujuco_sim/mujuco_sim.egg-info/requires.txt
+writing top-level names to ../../build/mujuco_sim/mujuco_sim.egg-info/top_level.txt
+reading manifest file '../../build/mujuco_sim/mujuco_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/mujuco_sim/mujuco_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+copying mujuco_sim/unitree_mujoco_shm_bridge.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim
+running install
+running install_lib
+copying /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/build/lib/mujuco_sim/unitree_mujoco_shm_bridge.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim
+byte-compiling /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim/unitree_mujoco_shm_bridge.py to unitree_mujoco_shm_bridge.cpython-310.pyc
+running install_data
+copying launch/g1_joint_mpc.launch.py -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/launch
+copying config/joint_mpc_params.yaml -> /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/share/mujuco_sim/config
+running install_egg_info
+removing '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim-0.0.1-py3.10.egg-info' (and everything under it)
+Copying ../../build/mujuco_sim/mujuco_sim.egg-info to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/python3.10/site-packages/mujuco_sim-0.0.1-py3.10.egg-info
+running install_scripts
+Installing fastlio_tf_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing follower_path_tracker script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing follower_sim script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing formation_sync_controller script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing mpc_path_tracker script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing mujoco_camera_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing unitree_mujoco_shm_bridge script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+Installing virtual_follower_odom script to /home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/install/mujuco_sim/lib/mujuco_sim
+writing list of installed files to '/home/simonzhang/g1-mujoco-ros2-nav-sim-G1-MuJoCo-ROS2-/build/mujuco_sim/install.log'

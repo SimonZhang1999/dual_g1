@@ -1,0 +1,46 @@
+[35m[1mConsolidate compiler generated dependencies of target read_wireless_controller[0m
+[35m[1mConsolidate compiler generated dependencies of target read_low_state[0m
+[35m[1mConsolidate compiler generated dependencies of target read_low_state_hg[0m
+[35m[1mConsolidate compiler generated dependencies of target low_level_ctrl[0m
+[35m[1mConsolidate compiler generated dependencies of target read_motion_state[0m
+[35m[1mConsolidate compiler generated dependencies of target g1_low_level_example[0m
+[35m[1mConsolidate compiler generated dependencies of target go2_stand_example[0m
+[35m[1mConsolidate compiler generated dependencies of target go2_sport_client[0m
+[35m[1mConsolidate compiler generated dependencies of target go2_robot_state_client[0m
+[35m[1mConsolidate compiler generated dependencies of target g1_arm_sdk_dds_example[0m
+[35m[1mConsolidate compiler generated dependencies of target g1_arm_action_example[0m
+[35m[1mConsolidate compiler generated dependencies of target g1_dex3_example[0m
+[35m[1mConsolidate compiler generated dependencies of target g1_loco_client_example[0m
+[35m[1mConsolidate compiler generated dependencies of target g1_ankle_swing_example[0m
+[35m[1mConsolidate compiler generated dependencies of target b2w_sport_client[0m
+[35m[1mConsolidate compiler generated dependencies of target low_level_ctrl_hg[0m
+[35m[1mConsolidate compiler generated dependencies of target b2_stand_example[0m
+[35m[1mConsolidate compiler generated dependencies of target b2_sport_client[0m
+[35m[1mConsolidate compiler generated dependencies of target h2_loco_client[0m
+[35m[1mConsolidate compiler generated dependencies of target g1_audio_client_example[0m
+[35m[1mConsolidate compiler generated dependencies of target h2_ankle_swing_example[0m
+[35m[1mConsolidate compiler generated dependencies of target g1_dual_arm_example[0m
+[35m[1mConsolidate compiler generated dependencies of target b2w_stand_example[0m
+[  7%] Built target g1_low_level_example
+[  7%] Built target read_low_state
+[ 12%] Built target low_level_ctrl
+[ 15%] Built target read_low_state_hg
+[ 20%] Built target g1_arm_sdk_dds_example
+[ 23%] Built target read_motion_state
+[ 26%] Built target read_wireless_controller
+[ 33%] Built target go2_sport_client
+[ 36%] Built target go2_stand_example
+[ 41%] Built target g1_arm_action_example
+[ 46%] Built target b2w_sport_client
+[ 53%] Built target go2_robot_state_client
+[ 57%] Built target g1_dex3_example
+[ 61%] Built target b2_stand_example
+[ 66%] Built target g1_ankle_swing_example
+[ 69%] Built target g1_loco_client_example
+[ 73%] Built target h2_loco_client
+[ 77%] Built target b2_sport_client
+[ 80%] Built target g1_audio_client_example
+[ 85%] Built target low_level_ctrl_hg
+[ 90%] Built target h2_ankle_swing_example
+[ 95%] Built target b2w_stand_example
+[100%] Built target g1_dual_arm_example
